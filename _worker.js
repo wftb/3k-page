@@ -8,9 +8,9 @@ let userID = '05153d24-5d01-421b-9632-994a4835cb22';
 const พร็อกซีไอพีs = ['proxyip.us.fxxk.dedyn.io','proxyip.oracle.fxxk.dedyn.io'];
 
 // if you want to use ipv6 or single พร็อกซีไอพี, please add comment at this line and remove comment at the next line
-let พร็อกซีไอพี = พร็อกซีไอพีs[Math.floor(Math.random() * พร็อกซีไอพีs.length)];
+// let พร็อกซีไอพี = พร็อกซีไอพีs[Math.floor(Math.random() * พร็อกซีไอพีs.length)];
 // use single พร็อกซีไอพี instead of random
-// let พร็อกซีไอพี = 'proxyip.oracle.fxxk.dedyn.io';
+let พร็อกซีไอพี = 'proxyip.oracle.fxxk.dedyn.io';
 // ipv6 พร็อกซีไอพี example remove comment to use
 // let พร็อกซีไอพี = "[2a01:4f8:c2c:123f:64:5:6810:c55a]"
 
